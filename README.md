@@ -48,14 +48,14 @@ PS: Wer bis hierhin gelesen hat...hier ist der Domi (hab ein Problem mit meinem 
 ## Participants
 
 ### Save
-* Dominik Winter (Oranisation)
-* Helena Hartung
-* Christine Gerold
-* Lisa Gerold
-* Johanna Schmidtmann
-* Constantin Popp
-* Annika Breitsameter
-* Michael Bowinzki
+* 🏟️ Dominik Winter (Oranisation)
+* 🏟️ Helena Hartung
+* 🏟️ Christine Gerold
+* 🏟️ Lisa Gerold
+* 🏟️ Johanna Schmidtmann
+* 🏟️ Constantin Popp
+* 🏟️ Annika Breitsameter
+* 🏟️ Michael Bowinzki
 
 ### Open
 * Felix Popp
