@@ -1,5 +1,7 @@
 # Sommer Olympiade 2021 | @Auhofen
 
+
+
 ## Communication
 ### #1 Save the date
 
@@ -56,14 +58,13 @@ PS: Wer bis hierhin gelesen hat...hier ist der Domi (hab ein Problem mit meinem 
 * 🏟️ Constantin Popp
 * 🏟️ Annika Breitsameter
 * 🏟️ Michael Bowinzki
+* 🏟️ Andre Germann
+
+* Lisa Winter (nur am 01.08.2021)
 
 ### Open
 * Felix Popp
-* Andre Germann
-* Lisa Winter
 * Claudia Tomcin
-* Stefan Kammermeier
-
 ----
 
 ## Organisation, Mode & To-Do's
