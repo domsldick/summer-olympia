@@ -1,6 +1,10 @@
 # Sommer Olympiade 2021 | @Auhofen
 
+🕥 25.07.2021 | 10:30 Uhr *(Alternativ: 01.08.2021)*
 
+📍 Auhofen 1, 85646 Anzing
+
+💸 20 EUR p.P. 
 
 ## Communication
 ### #1 Save the date
