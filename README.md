@@ -77,7 +77,11 @@ PS: Wer bis hierhin gelesen hat...hier ist der Domi (hab ein Problem mit meinem 
 
 ## Organisation, Mode & To-Do's
 
+### Competition mode
 
+### Timeline
+
+### Scoreboard
 
 ### Games
 
@@ -86,8 +90,7 @@ PS: Wer bis hierhin gelesen hat...hier ist der Domi (hab ein Problem mit meinem 
 #### Billard
 #### Tischtennis
 #### Konsole | Mario Kart
-####
-
+#### 
 
 
 
