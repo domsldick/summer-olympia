@@ -6,10 +6,14 @@
 
 💸 20 EUR p.P. 
 
+☀️ [Wetter](https://www.wetter.com/wetter_aktuell/wettervorhersage/16_tagesvorhersage/deutschland/anzing/auhofen/DE0000329001.html) | 🌡️ 27&deg; Celsius, 🌧️ 0%, ☀️ 9h
+
+---
+
 ## Communication
 ### #1 Save the date
 
-----
+---
 
 ☀️☀️**SAVE THE DATE | Sommerolympiade 2021 ANZING**☀️☀️
 
@@ -54,17 +58,17 @@ PS: Wer bis hierhin gelesen hat...hier ist der Domi (hab ein Problem mit meinem 
 ## Participants
 
 ### Save
-* 🏟️ Dominik Winter (Oranisation)
-* 🏟️ Helena Hartung
-* 🏟️ Christine Gerold
-* 🏟️ Lisa Gerold
-* 🏟️ Johanna Schmidtmann
-* 🏟️ Constantin Popp
-* 🏟️ Annika Breitsameter
-* 🏟️ Michael Bowinzki
-* 🏟️ Andre Germann
+* 🏟️ Dominik Winter (Organisation) | L
+* 🏟️ Helena Hartung | tbd
+* 🏟️ Christine Gerold | tbd
+* 🏟️ Lisa Gerold | tbd
+* 🏟️ Johanna Schmidtmann | tbd
+* 🏟️ Constantin Popp | tbd
+* 🏟️ Annika Breitsameter | tbd
+* 🏟️ Michael Bowinzki | tbd
+* 🏟️ Andre Germann | tbd
 
-* Lisa Winter (nur am 01.08.2021)
+* Lisa Winter (nur am 01.08.2021) | tbd
 
 ### Open
 * Felix Popp
@@ -73,10 +77,16 @@ PS: Wer bis hierhin gelesen hat...hier ist der Domi (hab ein Problem mit meinem 
 
 ## Organisation, Mode & To-Do's
 
+
+
 ### Games
 
 #### Wikinger Schach
-#### 
+#### Darts
+#### Billard
+#### Tischtennis
+#### Konsole | Mario Kart
+####
 
 
 
