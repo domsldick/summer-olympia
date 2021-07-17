@@ -1,6 +1,6 @@
 # Sommer Olympiade 2021 | @Auhofen
 
-🕥 25.07.2021 | 10:30 Uhr *(Alternativ: 01.08.2021)*
+🕥 25.07.2021 | 10:30 Uhr - 18:00 Uhr *(Alternativ: 01.08.2021)*
 
 📍 Auhofen 1, 85646 Anzing
 
@@ -63,19 +63,22 @@ PS: Wer bis hierhin gelesen hat...hier ist der Domi (hab ein Problem mit meinem 
 * 🏟️ Christine Gerold | tbd
 * 🏟️ Lisa Gerold | tbd
 * 🏟️ Johanna Schmidtmann | tbd
-* 🏟️ Constantin Popp | tbd
-* 🏟️ Annika Breitsameter | tbd
+* 🏟️ Constantin Popp | L
+* 🏟️ Annika Breitsameter | S
 * 🏟️ Michael Bowinzki | tbd
-* 🏟️ Andre Germann | tbd
-
-* Lisa Winter (nur am 01.08.2021) | tbd
+* 🏟️ Andre Germann | L
+* 🏟️ Felix Popp | L
 
 ### Open
-* Felix Popp
-* Claudia Tomcin
+* Lisa Winter (nur am 01.08.2021) | tbd
+
 ----
 
 ## Organisation, Mode & To-Do's
+
+🧑‍🤝‍🧑 10 Teilnehmer
+
+💰 200,00 EUR
 
 ### Competition mode
 
@@ -90,7 +93,17 @@ PS: Wer bis hierhin gelesen hat...hier ist der Domi (hab ein Problem mit meinem 
 #### Billard
 #### Tischtennis
 #### Konsole | Mario Kart
-#### 
+#### Spikeball
+#### Aerobie Frisbee
+#### Corn-Hole
+
+### Besorgungen
+- [ ] Seile / Schnüre für Markierungen
+- [ ] Spikeball
+- [ ] Wasserpistolen / Supersoaker
+- [ ] Aerobie Frisbee
+- [x] Nintendo 64 (inkl. 4 Controller) @Christine Gerold
+- [x] Wikinger Schach @Constantin Popp
 
 
 
