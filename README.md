@@ -59,15 +59,16 @@ PS: Wer bis hierhin gelesen hat...hier ist der Domi (hab ein Problem mit meinem 
 
 ### Save
 * 🏟️ Dominik Winter (Organisation) | L
-* 🏟️ Helena Hartung | tbd
-* 🏟️ Christine Gerold | tbd
+* 🏟️ Helena Hartung | S
+* 🏟️ Christine Gerold | S
 * 🏟️ Lisa Gerold | tbd
 * 🏟️ Johanna Schmidtmann | tbd
 * 🏟️ Constantin Popp | L
 * 🏟️ Annika Breitsameter | S
-* 🏟️ Michael Bowinzki | tbd
-* 🏟️ Andre Germann | L
+* 🏟️ Michael Bowinzki | M/L
+* 🏟️ Andre Germann | M/L
 * 🏟️ Felix Popp | L
+* 🏟️ Martin Festl | M
 
 ### Open
 * Lisa Winter (nur am 01.08.2021) | tbd
@@ -76,9 +77,9 @@ PS: Wer bis hierhin gelesen hat...hier ist der Domi (hab ein Problem mit meinem 
 
 ## Organisation, Mode & To-Do's
 
-🧑‍🤝‍🧑 10 Teilnehmer
+🧑‍🤝‍🧑 11 Teilnehmer
 
-💰 200,00 EUR
+💰 220,00 EUR
 
 ### Competition mode
 
@@ -96,6 +97,11 @@ PS: Wer bis hierhin gelesen hat...hier ist der Domi (hab ein Problem mit meinem 
 #### Spikeball
 #### Aerobie Frisbee
 #### Corn-Hole
+#### Sockengolf
+#### Flasche in Kasten
+#### Ringe werfen
+#### Boule
+#### Geistig anspruchsvolle Spiele
 
 ### Besorgungen
 - [ ] Seile / Schnüre für Markierungen
@@ -104,6 +110,7 @@ PS: Wer bis hierhin gelesen hat...hier ist der Domi (hab ein Problem mit meinem 
 - [ ] Aerobie Frisbee
 - [x] Nintendo 64 (inkl. 4 Controller) @Christine Gerold
 - [x] Wikinger Schach @Constantin Popp
+- [ ] Trillerpfeife mit Band
 
 
 
