@@ -82,8 +82,17 @@ PS: Wer bis hierhin gelesen hat...hier ist der Domi (hab ein Problem mit meinem 
 💰 220,00 EUR
 
 ### Competition mode
+- Es wird in 2er Teams gespielt
 
 ### Timeline
+
+| Zeit      | Dauer           |   Inhalt                             |
+| ----------|-----------------| -----------------------------------  |
+| 10:30 Uhr | 30 min          | Tagesplanung und Auslosung der Teams |
+| 11:00 Uhr | 2,5 h           | Teil 1 - Durchführung der Olympiade  |
+| 13:30 Uhr | 30 min          |    Mittagspause & Gemeinsames Essen  |
+| 14:00 Uhr |  3:30 h         | Teil 2 - Durchführung der Olympiade  |
+| 17:30 Uhr | 30 min          |    Siegerehrung                      |
 
 ### Scoreboard
 
