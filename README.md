@@ -61,8 +61,8 @@ PS: Wer bis hierhin gelesen hat...hier ist der Domi (hab ein Problem mit meinem 
 * 🏟️ Dominik Winter (Organisation) | L
 * 🏟️ Helena Hartung | S
 * 🏟️ Christine Gerold | S
-* 🏟️ Lisa Gerold | tbd
-* 🏟️ Johanna Schmidtmann | tbd
+* 🏟️ Lisa Gerold | S
+* 🏟️ Johanna Schmidtmann | L
 * 🏟️ Constantin Popp | L
 * 🏟️ Annika Breitsameter | S
 * 🏟️ Michael Bowinzki | M/L
