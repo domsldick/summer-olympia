@@ -14,6 +14,8 @@ Trikot-Frauen
 Trikot-Männer
 ![Trikot Männer](assets/trikot_männer_hinten.png)
 
+Bestellt bei https://www.teamshirts.de. Zur [Bestellung](https://my.spreadshirt.de/orders/20661760?authToken=deb2401b18f96b74347b55baff4f256f)
+
 ---
 
 ## Communication
@@ -86,6 +88,12 @@ PS: Wer bis hierhin gelesen hat...hier ist der Domi (hab ein Problem mit meinem 
 🧑‍🤝‍🧑 11 Teilnehmer
 
 💰 220,00 EUR
+
+| Budget        | Verwendung  
+| ----------    |---------
+| 220,00 EUR    | Basis-Budget         
+| - 163,92 €    | T-Shirts           
+| **-> 56,08 EUR**     | **Restbudget**  
 
 ### Competition mode
 - Es wird in 2er Teams gespielt
