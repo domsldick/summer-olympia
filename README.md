@@ -6,7 +6,7 @@
 
 💸 20 EUR p.P. 
 
-☀️ [Wetter](https://www.wetter.com/wetter_aktuell/wettervorhersage/16_tagesvorhersage/deutschland/anzing/auhofen/DE0000329001.html) | 🌡️ 27&deg; Celsius, 🌧️ 0%, ☀️ 9h
+☀️ [Wetter](https://www.wetter.com/wetter_aktuell/wettervorhersage/16_tagesvorhersage/deutschland/anzing/auhofen/DE0000329001.html) | 🌡️ 27&deg; Celsius, 🌧️ 70%, ☀️ 9h
 
 ---
 
