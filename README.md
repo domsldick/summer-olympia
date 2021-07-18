@@ -10,8 +10,10 @@
 
 Trikot-Frauen
 ![Trikot Frauen](assets/trikot_frauen_hinten.png)
+
 Trikot-Männer
 ![Trikot Männer](assets/trikot_männer_hinten.png)
+
 ---
 
 ## Communication
