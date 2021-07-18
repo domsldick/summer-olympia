@@ -111,7 +111,7 @@ PS: Wer bis hierhin gelesen hat...hier ist der Domi (hab ein Problem mit meinem 
 - [x] Nintendo 64 (inkl. 4 Controller) @Christine Gerold
 - [x] Wikinger Schach @Constantin Popp
 - [ ] Trillerpfeife mit Band
-
+- [x] [T-Shirts](https://checkout.teamshirts.de/?paymentTypeId=2681&successToken=15CCECBB-8DD1-48E4-8403-6734E3C5D5E4&affiliate=1247401&directAffiliate=1247401&lang=de&locale=DE&shopId=830295&version=2.85.0&continueShoppingLink=https%3A%2F%2Fwww.teamshirts.de%2Fbasket%2Freset&result=SUCCESS&orderId=20661760&transactionId=21778894&token=BC0C2F55-905B-4E5F-8C32-D731EE2B982E#/spreadshirt)
 
 
 
