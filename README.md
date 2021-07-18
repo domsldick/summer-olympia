@@ -8,6 +8,10 @@
 
 ☀️ [Wetter](https://www.wetter.com/wetter_aktuell/wettervorhersage/16_tagesvorhersage/deutschland/anzing/auhofen/DE0000329001.html) | 🌡️ 27&deg; Celsius, 🌧️ 70%, ☀️ 9h
 
+Trikot-Frauen
+![Trikot Frauen](assets\trikot_frauen_hinten.png)
+Trikot-Männer
+![Trikot Männer](assets\trikot_männer_hinten.png)
 ---
 
 ## Communication
