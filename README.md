@@ -77,6 +77,11 @@ PS: Wer bis hierhin gelesen hat...hier ist der Domi (hab ein Problem mit meinem 
 * 🏟️ Andre Germann | M/L
 * 🏟️ Felix Popp | L
 * 🏟️ Martin Festl | M
+* 🏟️ Marcel Jacobi | M
+* 🏟️ Stefan Kammermeier | M
+* 🏟️ Claudia Tomcin | S
+
+
 
 ### Open
 * Lisa Winter (nur am 01.08.2021) | tbd
