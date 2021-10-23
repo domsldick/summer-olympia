@@ -96,7 +96,13 @@ PS: Wer bis hierhin gelesen hat...hier ist der Domi (hab ein Problem mit meinem 
 | **-> 56,08 EUR**     | **Restbudget**  
 
 ### Competition mode
-- Es wird in 2er Teams gespielt
+- Es wird in **2er Teams** gespielt
+- 2er Teams werden **ausgelost**
+- Es wird immer ein **Mann** und eine **Frau** ein gemeinsames Team bilden
+- In jeder Disziplin ist der grundlegenge Modus "**Jeder-gegen-Jeden**"
+- Ein **gewonnenes** Spiel bringt **2 Punkte** für das Siegerteam die Gesamtwertung
+- Ein **verlorenes** Spiel bringt **keine Punkte** für die Gesamtwertung
+- Ein Spiel **untentschieden** bringt **1 Punkt** für beide Mannschaften für die Gesamtwertung
 
 ### Timeline
 
@@ -116,6 +122,13 @@ PS: Wer bis hierhin gelesen hat...hier ist der Domi (hab ein Problem mit meinem 
 #### Darts
 #### Billard
 #### Tischtennis
+- Gespielt wird Eins-gegen-Eins
+- Bei jedem Spiel, spielt Frau gegen Frau und Mann gegen Mann - es finden also immer 2 Spiele statt
+- Ein Spiel ist mit 11 Punkten gewonnen - Aufschlagwechsel nach 2 Punkten
+- Zuerst wird "um die Angabe" gespielt
+- Es muss mit 2 Punkten Abstand gewonnen werden
+
+
 #### Konsole | Mario Kart
 #### Spikeball
 #### Aerobie Frisbee
