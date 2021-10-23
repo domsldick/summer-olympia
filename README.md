@@ -79,7 +79,6 @@ PS: Wer bis hierhin gelesen hat...hier ist der Domi (hab ein Problem mit meinem 
 * 🏟️ 13 Marcel Jacobi | M
 * 🏟️ ~~Andre Germann | M/L~~
 
-----
 
 ## Organisation, Mode & To-Do's
 
