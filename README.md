@@ -1,4 +1,4 @@
-# Hüttn (Sommer) Olympiade 2021 | @Marktlalm
+# Hüttn (Sommer) Olympiade 2021 | @Marktlalm 
 
 🕥 30.10.2021 | 10:30 Uhr - 18:00 Uhr
 
